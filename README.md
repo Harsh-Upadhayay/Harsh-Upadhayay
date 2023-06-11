@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CP, DSA ML and Web-Dev<br>👯 I’m looking to collaborate on NLP / ML project<br>🌱 I’m currently learning Node, scikit-learn.<br>💬 Ask me about C / C++ / Python / CP.
+🔭 I’m currently working on CP, DSA ML and Web-Dev<br>👯 I’m looking to collaborate on NLP / ML project<br>🌱 I’m currently learning Node, scikit-learn.<br>💬 Ask me about C / C++ / Python / CP / Machine learning / NLP.
 
 
 # 💻 Tech Stack:
